@@ -59,3 +59,35 @@
 | 2 | Isaac Lab GitHub Docs | TurtleBot | 
 | 3 | 환경 커스텀3NeMo RL 공식 문서 | GRPO/RLHF 이론 심화 | 
 | 4 | NeMo Gym | 에이전트 환경 설계 | 
+
+---
+
+## ✅ NVIDIA DLI 무료 RL 관련 과정
+
+### 🆓 완전 무료 — Robotics Fundamentals Learning Path
+👉 https://nvidia.com/en-us/learn/learning-path/robotics
+
+* "Start Your Free Learning Path" 버튼이 있는 완전 무료 경로로, 다음 섹션으로 구성됩니다:
+   * Robotics Foundations — 로보틱스 핵심 개념 강의
+   * Getting Started With Isaac Sim — Isaac Sim 기초, ROS 2 연동, 합성 데이터 생성
+   * Getting Started With Isaac Lab — 로봇 학습(RL/Imitation Learning) 고급 개념 실습
+   * Getting Started With Isaac ROS — NVIDIA Isaac ROS 프레임워크
+   * Getting Started With Isaac for Healthcare — 의료 로봇 워크플로우 nvidia
+
+* 이 중 "Getting Started With Isaac Lab" 섹션이 바로 RL을 다루는 핵심 파트입니다.
+
+### 📋 무료 과정 직접 링크
+
+| 과정명 | URL | 가격 | 
+|:---------:|:---------:|:---------:|
+| An Introduction to Robot Learning and Isaac Lab | learn.nvidia.com → DLI+S-OV-36+V1 | 🆓 Free | 
+| Train Your First Robot in Isaac Lab | learn.nvidia.com → DLI+S-OV-46+V1 | 🆓 Free | 
+| Simulating Your First Robot in Isaac Sim | learn.nvidia.com → DLI+S-OV-27+V1 | 🆓 Free | 
+| A Beginner's Guide to Autonomous Robots | learn.nvidia.com → DLI+S-OV-35+V1 | 🆓 Free | 
+
+## 💡 추가 팁 — 교수님 입장에서 활용 가능한 것
+* NVIDIA DLI는 Teaching Kit를 제공하는데, 교수자가 신청하면 최대 200명 학생에게 무료 DLI 과정 접근 코드를 발급받을 수 있습니다.
+* 강의 슬라이드, 영상, 퀴즈/시험 문제 세트와 정답까지 포함된 학기 단위 커리큘럼 자료도 함께 제공됩니다.
+
+* 광주 인재개발원 강의에 학생들과 함께 활용하기 딱 좋은 루트입니다!
+* Teaching Kit 신청은 https://www.nvidia.com/en-us/deep-learning-ai/education/ 에서 할 수 있어요.
