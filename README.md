@@ -85,6 +85,8 @@
 | Simulating Your First Robot in Isaac Sim | learn.nvidia.com → DLI+S-OV-27+V1 | 🆓 Free | 
 | A Beginner's Guide to Autonomous Robots | learn.nvidia.com → DLI+S-OV-35+V1 | 🆓 Free | 
 
+---
+
 ## 💡 추가 팁 — 교수님 입장에서 활용 가능한 것
 * NVIDIA DLI는 Teaching Kit를 제공하는데, 교수자가 신청하면 최대 200명 학생에게 무료 DLI 과정 접근 코드를 발급받을 수 있습니다.
 * 강의 슬라이드, 영상, 퀴즈/시험 문제 세트와 정답까지 포함된 학기 단위 커리큘럼 자료도 함께 제공됩니다.
